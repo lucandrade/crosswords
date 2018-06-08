@@ -1,0 +1,240 @@
+[
+  {
+    "direction": "across",
+    "description": "Moderate quantity",
+    "words": [
+      "dodicum"
+    ],
+    "row": 0,
+    "column": 0
+  },
+  {
+    "direction": "across",
+    "description": "In transit (French)",
+    "words": [
+      "en",
+      "route"
+    ],
+    "row": 1,
+    "column": 6
+  },
+  {
+    "direction": "across",
+    "description": "Ireland's longest river",
+    "words": [
+      "shannon"
+    ],
+    "row": 2,
+    "column": 0
+  },
+  {
+    "direction": "across",
+    "description": "Prolong",
+    "words": [
+      "drag",
+      "out"
+    ],
+    "row": 3,
+    "column": 6
+  },
+  {
+    "direction": "across",
+    "description": "Panache",
+    "words": [
+      "style"
+    ],
+    "row": 4,
+    "column": 0
+  },
+  {
+    "direction": "across",
+    "description": "Now",
+    "words": [
+      "currently"
+    ],
+    "row": 5,
+    "column": 4
+  },
+  {
+    "direction": "across",
+    "description": "Sincerely intended with strong feeling",
+    "words": [
+      "heartfelt"
+    ],
+    "row": 7,
+    "column": 0
+  },
+  {
+    "direction": "across",
+    "description": "Dolts",
+    "words": [
+      "asses"
+    ],
+    "row": 8,
+    "column": 8
+  },
+  {
+    "direction": "across",
+    "description": "Confused and empty talk",
+    "words": [
+      "palaver"
+    ],
+    "row": 9,
+    "column": 0
+  },
+  {
+    "direction": "across",
+    "description": "River flowing from Colombia through Venezuela to the Atlantic",
+    "words": [
+      "orinoco"
+    ],
+    "row": 10,
+    "column": 6
+  },
+  {
+    "direction": "across",
+    "description": "Narrow-minded",
+    "words": [
+      "insular"
+    ],
+    "row": 11,
+    "column": 0
+  },
+  {
+    "direction": "across",
+    "description": "Vest",
+    "words": [
+      "singlet"
+    ],
+    "row": 12,
+    "column": 6
+  },
+  {
+    "direction": "down",
+    "description": "Hebrew prophet who led the Israelites on the Exodus",
+    "words": [
+      "doses"
+    ],
+    "row": 0,
+    "column": 0
+  },
+  {
+    "direction": "down",
+    "description": "Personal journal",
+    "words": [
+      "diary"
+    ],
+    "row": 0,
+    "column": 2
+  },
+  {
+    "direction": "down",
+    "description": "In turn",
+    "words": [
+      "consecutively"
+    ],
+    "row": 0,
+    "column": 4
+  },
+  {
+    "direction": "down",
+    "description": "Repairer",
+    "words": [
+      "mender"
+    ],
+    "row": 0,
+    "column": 6
+  },
+  {
+    "direction": "down",
+    "description": "Detailed artistic embellishment",
+    "words": [
+      "ornamentation"
+    ],
+    "row": 0,
+    "column": 8
+  },
+  {
+    "direction": "down",
+    "description": "Erase — kill",
+    "words": [
+      "rub",
+      "out"
+    ],
+    "row": 0,
+    "column": 10
+  },
+  {
+    "direction": "down",
+    "description": "Not violently",
+    "words": [
+      "gently"
+    ],
+    "row": 0,
+    "column": 12
+  },
+  {
+    "direction": "down",
+    "description": "Remove",
+    "words": [
+      "take"
+    ],
+    "row": 4,
+    "column": 1
+  },
+  {
+    "direction": "down",
+    "description": "Electrically charged",
+    "words": [
+      "live"
+    ],
+    "row": 5,
+    "column": 11
+  },
+  {
+    "direction": "down",
+    "description": "1960s' dropout",
+    "words": [
+      "hippie"
+    ],
+    "row": 7,
+    "column": 0
+  },
+  {
+    "direction": "down",
+    "description": "In the end",
+    "words": [
+      "at",
+      "last"
+    ],
+    "row": 7,
+    "column": 2
+  },
+  {
+    "direction": "down",
+    "description": "Faults",
+    "words": [
+      "errors"
+    ],
+    "row": 7,
+    "column": 6
+  },
+  {
+    "direction": "down",
+    "description": "Seat without a back (5)",
+    "words": [
+      "stool"
+    ],
+    "row": 8,
+    "column": 10
+  },
+  {
+    "direction": "down",
+    "description": "Inured to fatigue and hardship",
+    "words": [
+      "stout"
+    ],
+    "row": 8,
+    "column": 12
+  }
+]
